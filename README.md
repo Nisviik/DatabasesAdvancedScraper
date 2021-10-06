@@ -22,4 +22,4 @@ Finishing installing python3 and beautifulsoup4
 - sudo apt install python3-pip
 - sudo pip install beautifulsoup4 
 
-The Scraper is only printing the transaction with the highest value of each minute for now, in the upcoming week that will change 
+The Scraper is only printing the transaction with the highest value of each minute for now, in the upcoming weeks that will change 
